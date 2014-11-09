@@ -1,8 +1,9 @@
 <?php
 /**
- * The Header for our theme
+ * The header for the User Sites theme.
  *
- * Displays all of the <head> section and everything up till <div id="main">
+ * Displays all of the <head> section and everything up until
+ * <code>&lt;div id="main"&gt;</code>.
  *
  * @package usersites
  * @subpackage theme
@@ -12,8 +13,7 @@
 <html <?php language_attributes(); ?>>
 	<head>
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
-		<title><?php wp_title( '|', true, 'right' ); ?></title>
-		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title><?php bloginfo('blogname'); ?></title>
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
