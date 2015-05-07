@@ -1,11 +1,11 @@
-@CHARSET "UTF-8";
+@charset "UTF-8";
 /*
 Theme Name: User Sites
 Theme URI: https://github.com/bobbywalters/usersites
 Author: Bobby Walters <bobbymwalters@gmail.com>
 Author URI: https://github.com/bobbywalters
 Description: A theme to list the sites a user has access to in a multisite configuration. Best suited for the network (blog_id = 1) site.
-Version: 1.0
+Version: 1.0.1
 Tags: white, light, multisite, responsive-layout, fixed-layout
 Text Domain: usersites
 */
