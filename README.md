@@ -14,7 +14,7 @@ A theme to show the available sites to a user based on WordPress capabilities.
 * [A user with the admin role in a single site](screenshot1.png)
 
 ### License
-GPLv3. Please refer to [LICENSE](LICENSE) for more details.
+GPLv2. Please refer to [LICENSE](LICENSE) for more details.
 
 ### Notes
 The intended use of this theme is on the main site, ie blog id = 1, as only the site listing will be displayed. No other content such as posts or pages will be shown but the theme could be used on any site.
